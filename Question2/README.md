@@ -1,7 +1,5 @@
-Students Performance Data-
+Data on Student Performance:
 
-Aim:
-Analysing the Students performance on various factors.
+Objective: To analyse the students' performance on many factors.
 
-Abstract:
-The grades that students earned across a range of topics make up this dataset.The goal is to comprehend how exam preparation, parental history, and other factors affect pupils' performance.With the goal of developing a thorough statistical analysis of the data using both R scripts and graphs, we'll aim to look at each variable and their correlations.
+This dataset contains the grades that students received in a variety of subjects.The purpose is to understand how exam preparation, parental history, and other factors influence students' success.We will examine each variable and their associations, with the purpose of generating a comprehensive statistical analysis of the data using both scripts and visualisations.
