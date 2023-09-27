@@ -1,7 +1,7 @@
-Frailty Data-
+Frailty Data:
 
-Aim:
-Analysing the weakness on various factors.
+Objective: Analysis of several components' areas of weakness.
 
-Abstract:
-This dataset consists of fragility information related to many topics.Understanding how height, weight, age, and grip strength impact the frailty is the aim.We will seek to look at each variable and their associations with the goal of generating a detailed statistical analysis of the data using python and visualizations.
+
+
+Details: Information about fragility for a variety of issues is contained in this dataset.The objective is to comprehend how grip strength, age, height, and weight affect the fragility.By examining each variable and its relationships, we want to produce a thorough statistical analysis of the data using Python and visualisations.
